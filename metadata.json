@@ -1,0 +1,6 @@
+{
+  "name": "ApplyWell Pro",
+  "description": "Lean Applicant Tracking System (ATS) featuring hybrid WhatsApp links and digital waiting rooms for interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
